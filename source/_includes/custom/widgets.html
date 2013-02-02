@@ -2,10 +2,17 @@
   <div class="span4">
     {% include custom/asides/about.html %}
   </div>
-  <div class="span6">
-    {% include asides/github.html %}
+  <div class="span4">
+    <h2>commentary</h2>
+    <ul id="recent_posts">
+      {% for post in site.posts limit: site.recent_posts %}
+        <li class="post">
+          <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
   </div>
-  <div class="span2">
-    {% include custom/asides/found_on.html %}
+  <div class="span4">
+    {% include asides/twitter.html %}
   </div>
 </div>
