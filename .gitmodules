@@ -1,0 +1,3 @@
+[submodule ".themes/foxslide"]
+	path = .themes/foxslide
+	url = https://github.com/sevenadrian/foxslide
