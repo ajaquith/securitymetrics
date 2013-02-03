@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.markerbench.com
-title: Markerbench
-subtitle: Perspectives on technology, security, and current events.
+url: http://ajaquith.github.com/securitymetrics
+title: Securitymetrics.org
+subtitle: Measuring security effectiveness.
 author: Andrew Jaquith
 simple_search: http://google.com/search
-description: Essays on security, metrics, applications and more
+description: A community for practitioners of security metrics.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,14 +58,14 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: ajaquith
+github_user:
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: arj
-twitter_tweet_count: 4
+twitter_user:
+twitter_tweet_count:
 twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: true
@@ -89,14 +89,14 @@ delicious_user:
 delicious_count: 3
 
 # LinkedIn
-linkedin_user: pub/andrew-jaquith/2/5b9/a88/
+linkedin_user:
 
 # Disqus Comments
-disqus_short_name: markerbench
+disqus_short_name:
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id: UA-37546435-1
+google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: true
