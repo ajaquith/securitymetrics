@@ -3,14 +3,7 @@
     {% include custom/asides/about.html %}
   </div>
   <div class="span4">
-    <h2>commentary</h2>
-    <ul id="recent_posts">
-      {% for post in site.posts limit: site.recent_posts %}
-        <li class="post">
-          <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endfor %}
-    </ul>
+    {% include custom/asides/commentary.html %}
   </div>
   <div class="span4">
     {% include asides/twitter.html %}
