@@ -28,6 +28,9 @@ article.archive-article-format { box-shadow: none; padding: 0; }
 // Add a little horizontal space in dt elements
 .dl-horizontal dt { width: 135px; }
 
+// Add a little margin to the botton of blockquoted paragraphs
+blockquote p { margin-bottom: 8px; }
+
 #hero-inner {
   font-family: 'Helvetica Neue', sans-serif;
 }
