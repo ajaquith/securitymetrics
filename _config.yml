@@ -92,11 +92,11 @@ delicious_count: 3
 linkedin_user:
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: securitymetrics
 disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-38753716-1
 
 # Facebook Like
 facebook_like: true
