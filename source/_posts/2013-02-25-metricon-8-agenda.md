@@ -8,7 +8,7 @@ categories:
 comments: true
 ---
 
-Here's final agenda for Metricon 8.
+Here's the final agenda for Metricon 8.
 
 <!-- more -->
 
@@ -54,3 +54,91 @@ results in a numeric expression of a metric.
 metric and its performance trend.
 
 *Adapted from NIST SP 800-55
+
+## Attendees
+
+* Jim Acquaviva, nCircle
+* Jill Allison, Minnesota State Colleges and Universities
+* Anthony Arrott, Trend Micro
+* Wade Baker, Verizon
+* Jennifer L. Bayuk, Jennifer L. Bayuk, LLC
+* Chris Berry, Sensage Services
+* Nathaniel Boggs, Columbia University
+* Tim Bond, Software AG 
+* Stephen Boyer, BitSight Technologies
+* Raphael Braschoss, Visa
+* Krag Brotby, Brotby & Associates
+* David Charing, Canadian Imperial Bank of Commerce
+* Anton Chuvakin, Gartner
+* Myles Conley, Auspices LLC
+* Dan Cornell, Denim Group
+* Earl Crane, National Security Staff, The White House
+* Keesha M. Crosby, Tri-Guard Risk Solution, LTD
+* Mike Dahn, Square
+* Yo Delmar, MetricStream
+* Fred Doolittle, Chevron Information Technology Company
+* Steve Dotson, Travelport
+* Thomas Elegante, Zions Bancorporation
+* Jussi Eronen, CERT-FI
+* Cameran Evans, Vmware
+* Matthew H. Fleming, Homeland Security Studies and Analysis Institute
+* Patrick M. Florer, Risk Centric Security, Inc.
+* Doug Foster, USG
+* Summer C. Fowler, Carnegie Mellon University
+* Dan Geer, InQTel
+* Eric Goldstein, Homeland Security Studies and Analysis Institute
+* Gary Golomb, Cylance, Inc.
+* Anton Goncharov, MetaNet Infra Visibility Solutions
+* Lisa Hall, Ernst & Young
+* Grant Hansen, Zions Bancorporation
+* Paula Hant, Salesforce.com
+* Andrew Hay, CloudPassage, Inc.
+* Lance Hayden, Cisco
+* Josh Huston, Exultium
+* Jay Jacobs, Verizon
+* Andrew Jaquith, Silversky
+* Jack Jones, CXOWARE, Inc.
+* Jeremy Kennelly, Cenovus Energy
+* Ramon Krikken, Gartner
+* Jason Leuenberger, Starbucks
+* Pete Lindstrom, Spire Security, LLC
+* Ivan Macalintal, Trend Micro
+* Michael Makstman, Kaiser Permanente
+* Raffael Marty, pixlcloud
+* Adam Montville, Tripwire, Inc.
+* Christopher Pogue, Trustwave
+* Alex Proskura, Auspicatus
+* Andy Rappaport, CORE Security
+* Brent R. Rowe, RTI International
+* Michael Roytman, Risk I/O
+* Bob Rudis, Liberty Mutual
+* Karan Saberwal, Discover Financial Services
+* Ben Sapiro, The Dominion
+* Mahesh Saptarshi, Symantec
+* Aaron Schaub, State Auto Insurance
+* David F. Severski, Seattle Children's
+* Peter Shehu, Blue Shield of California
+* Anoop Singhal, NIST
+* Lindsey Smith, Tripwire, Inc.
+* Wyman Stocks, NetApp
+* Salvatore J. Stolfo, Columbia University
+* Morey Straus, VMware
+* Russell Thomas, George Mason University
+* Ryan Ward, Avatier Corporation
+* Evan Wheeler, Omgeo
+* Suzanne Widup, Verizon
+* Walt Williams, Lattice Engines
+* Mathew Woodyard, Zions Bancorporation
+* Hadden Xiao, Trend Micro
+* Kai Yu, Trend Micro
+
+## Sponsors
+
+{% img /images/metricon-8-sponsors.png %}
+
+* [Trend Micro](http://www.trendmicro.com)
+* [nCircle](http://www.ncircle.com)
+* [Jennifer Bayuk](http://www.bayuk.com)
+* [RSA, The Security Division of EMC](http://www.rsa.com)
+* [SilverSky](http://www.silversky.com)
+* [Symantec](http://www.symantec.com)
