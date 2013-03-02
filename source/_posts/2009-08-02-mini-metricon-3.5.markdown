@@ -1,6 +1,6 @@
 ---
 title: Mini-Metricon 3.5 &#x2014; Practical Security Metrics
-author: Andrew Jaquith
+author: Elizabeth A Nichols
 created_at: 2009-08-02 14:36:47 -0400
 layout: post
 categories:

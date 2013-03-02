@@ -1,6 +1,5 @@
 ---
 title: Mini-Metricon 5.5
-author: Andrew Jaquith
 created_at: 2011-07-28 04:58:28 -0400
 layout: post
 categories:

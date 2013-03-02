@@ -1,6 +1,6 @@
 ---
 title: Metricon 4 &#x2014; The Importance of Context
-author: Andrew Jaquith
+author: Jennifer Bayuk
 created_at: 2009-09-27 22:27:05 -0400
 layout: post
 categories:

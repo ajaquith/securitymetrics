@@ -1,6 +1,6 @@
 ---
 title: Metricon 7 &#x2014; Security Metrics&#58; Useful or Bust!
-author: Andrew Jaquith
+author: Anton Chuvakin
 created_at: 2012-08-19 17:55:40 -0400
 layout: post
 categories:

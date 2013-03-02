@@ -1,6 +1,6 @@
 ---
 title: Mini-Metricon 4.5
-author: Andrew Jaquith
+author: Chris Walsh
 created_at: 2010-03-19 08:04:44 -0400
 layout: post
 categories:

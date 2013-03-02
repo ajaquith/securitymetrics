@@ -1,6 +1,5 @@
 ---
 title: Mini-Metricon 2.5
-author: Andrew Jaquith
 created_at: 2009-06-19 10:08:25 -0400
 layout: post
 categories:
@@ -39,7 +38,7 @@ Mini-Metricon 2.5 was held Monday, 7 April 2008 in San Francisco, California.
   * Public Data Sources Summary
   * SecurityMetrics.org Summary
   * Action Items
-* Crunching the Numbers. _Mderator:_ Andrew Jaquith
+* Crunching the Numbers. _Moderator:_ Andrew Jaquith
   * Matthew Rosenquist, Intel -- [Measuring the Return on IT Security Investments](/attachments/Metricon-2.5-Rosenquist-Security-Value.pdf)
   * Scott Dynes, Dartmouth-Tuck -- [Security Metrics in Industry: Results from Workshops and Field Studies](/attachments/Metricon-2.5-Dynes-Field-Study-Results.pdf)
   * Wade Baker, Verizon -- Incident Response Trends

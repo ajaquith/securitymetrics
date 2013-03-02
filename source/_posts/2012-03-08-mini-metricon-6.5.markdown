@@ -1,6 +1,6 @@
 ---
 title: Mini-Metricon 6.5
-author: Andrew Jaquith
+author: Bryan S Ware and Jennifer Bayuk
 created_at: 2012-03-08 07:56:06 -0500
 layout: post
 categories:

@@ -1,6 +1,6 @@
 ---
 title: Metrics Catalog Project
-author: Andrew Jaquith
+author: Elizabeth A Nichols
 created_at: 2009-07-21 21:57:55 -0400
 layout: post
 categories:

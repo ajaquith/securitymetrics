@@ -1,6 +1,6 @@
 ---
 title: Metricon 6 &#x2014; Real People Generating Real Information
-author: Andrew Jaquith
+author: Alex Hutton
 created_at: 2012-10-28 12:25:54 -0400
 layout: post
 categories:

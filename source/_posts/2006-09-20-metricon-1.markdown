@@ -1,6 +1,6 @@
 ---
 title: Metricon 1 &#x2014; The Inaugural Event
-author: Andrew Jaquith and Dan Geer
+author: Dan Geer and Andrew Jaquith
 created_at: 2006-09-20 17:01:12 -0400
 layout: post
 categories:

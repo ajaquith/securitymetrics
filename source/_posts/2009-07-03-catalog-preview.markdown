@@ -1,6 +1,6 @@
 ---
 title: Metrics Catalog Preview
-author: Andrew Jaquith
+author: Elizabeth A Nichols
 created_at: 2009-07-03 15:44:09 -0400
 layout: post
 categories:
