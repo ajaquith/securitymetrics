@@ -207,3 +207,5 @@ RewriteCond %{QUERY_STRING} ^page=Welcome_blogentry_310108_1$
 RewriteRule ^/content\/Wiki\.jsp? http://www.markerbench.com/blog/2008/01/31/Retired-Comedians-and-Missed-Opportunities/ [R=301,L]
 RewriteCond %{QUERY_STRING} ^page=Welcome_blogentry_311207_1$
 RewriteRule ^/content\/Wiki\.jsp? http://www.markerbench.com/blog/2007/12/31/One-Prediction-for-2008-Site-Specific-Browsers/ [R=301,L]
+Redirect permanent /blog/2012/12/11/metricon-8/ http://www.securitymetrics.org/blog/2013/05/29/metricon-8/
+Redirect permanent /blog/2013/02/25/metricon-8/ http://www.securitymetrics.org/blog/2013/05/29/metricon-8/
