@@ -4,9 +4,9 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "root@securitymetrics.org"
+ssh_user       = "securitymetrics@securitymetrics.org"
 ssh_port       = "22"
-document_root  = "/home/webadmin/securitymetrics.org/html"
+document_root  = "/var/www/securitymetrics/data/www/securitymetrics.org"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "rsync"
