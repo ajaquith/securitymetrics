@@ -23,6 +23,6 @@ Although the founding members of securitymetrics.org have their roots in the com
 
 The Managing Editor of this website is [Andrew Jaquith](https://www.linkedin.com/in/ajaquith), CTO and SVP, Cloud Security Strategy, with [SilverSky](http://www.silversky.com). He was previously a senior analyst with [Forrester Research](http://www.forrester.com), and a co-founder and principal consultant at [@stake, Inc.](http://web.archive.org/web/20001206041000/http://www.atstake.com/). This site is not affiliated with any company, and the opinions expressed on this website are strictly those of the authors themselves.
 
-Sound interesting? [Join today!](http://securitymetrics.org:8081/mailman/listinfo/discuss)
+Sound interesting? [Join today!](https://www.securitymetrics.org/mailman/listinfo/discuss)
 
 Problems or questions? Contact Andrew via  __admin__TA__securitymetrics__TOD__org__ (reverse the uppercase letters and substitute the correct punctuation). Yeah, I'm bracing for the 'bot deluge.

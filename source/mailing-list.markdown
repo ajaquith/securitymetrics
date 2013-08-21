@@ -14,7 +14,7 @@ The goal for the `securitymetrics` list is to provide a forum for ideas and inno
 ## Vetting Process
 Oh, and one more thing. We screen everyone asking to join the list so we can have some assurance that prospective members are real people, are not obviously in the employ of spammers, and have demonstrated a minimum level of interest in security. The primary research tool for vetting identities is the same as Johnny Long's: Google. If we can't figure out who you are, you'll get a message asking you for more details.
 
-Don't let the vetting dishearten you: if you've been intrepid enough to make it to this web page, you're probably our sort of person to begin with. If you are still undaunted, [here's the magic link](http://securitymetrics.org:8081/mailman/listinfo/discuss) where you can request admission.
+Don't let the vetting dishearten you: if you've been intrepid enough to make it to this web page, you're probably our sort of person to begin with. If you are still undaunted, [here's the magic link](https://www.securitymetrics.org/mailman/listinfo/discuss) where you can request admission.
 
 _Note: if you want to speed up the process a bit, send an e-mail to David's address, `mortman` at `gmail` dot `com`. We strongly prefer that you use a work address because we have a better chance of verifying that you exist, or at the very least, your employer does. Referrals from current members help, too._
 
