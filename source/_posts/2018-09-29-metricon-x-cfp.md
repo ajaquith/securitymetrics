@@ -38,4 +38,14 @@ All participants are expected to &ldquo;come with findings&rdquo; and be willing
 - __January 15, 2019__. Speakers and agenda announcement
 - __March 21 and 22, 2019__. Metricon X convenes
 
+## Conference Organizers
+
+- Jennifer Bayuk
+- Dan Geer
+- Alex Hutton
+- Jay Jacobs
+- Andy Jaquith (event chair)
+- Mukul Pareek
+- Walt Williams
+
 The proceedings of all past meetings are available on the [securitymetrics.org](http://www.securitymetrics.org/blog/categories/metricon/) website.
