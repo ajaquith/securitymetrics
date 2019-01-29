@@ -34,3 +34,27 @@ blockquote p { margin-bottom: 8px; }
 #hero-inner {
   font-family: 'Helvetica Neue', sans-serif;
 }
+
+// Table style
+table:not(.highlight table) {
+  border: 1px solid #e7e3e7;
+  margin-bottom: 1.5em; // to match p style
+  th, td {
+    border: 1px dashed #e7e3e7;
+    padding: 0 5px;
+  }
+  th {
+    border-style: solid;
+    font-weight: bold;
+    background: url("/images/noise.png") repeat scroll left top #f7f3f7;
+  }
+  th[align="left"], td[align="left"] {
+    text-align: left;
+  }
+  th[align="right"], td[align="right"] {
+    text-align: right;
+  }
+  th[align="center"], td[align="center"] {
+    text-align: center;
+  }
+}
