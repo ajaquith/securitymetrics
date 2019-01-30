@@ -52,7 +52,7 @@ Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Se
  10:30&ndash;10:45 | Break
  10:45&ndash;11:30 | [Metrics and Standards: Can Data Science Help Understand Privileged Access?](#panaseer) <br> Mike McIntire, Panaseer
  11:30&ndash;13:00 | [Lunch and Open Mic (Metrics Freestyle Rapping)](#mic)
- 13:00&ndash;13:45 | [If KPIs are KRIs, Then We&lsquo;re Measuring It All Wrong](#alex) <br> Alex Hutton, ne&rsquo;er-do-well
+ 13:00&ndash;13:45 | [If KPIs are KRIs, Then We&lsquo;re Measuring It All Wrong](#neer-do-well) <br> TBD
  13:45&ndash;14:00 | Break
  14:00&ndash;14:45 | [Metrics for Organizational Cybersecurity Practices](#bcd) <br> Benjamin Charles Dean, Columbia University
  14:45&ndash;15:30 | [Tactical Metrics Don&rsquo;t Lead to Strategic Investments](#abt) <br> Brian Gay, Northramp LLC <br> Sean Owen, Abt Associates
@@ -134,8 +134,8 @@ _Abstract_: Privileged access is increasingly understood as a challenging proble
 ### <a name="mic"></a>Lunch and Open Mic (Metrics Freestyle Rapping)
 _Abstract_: From 11:30 through lunch, we will be providing an open mic for on the spot or improv presentations, questions for the community, rants (within reason) and other discussion topics.
 
-### <a name="alex"></a>If KPIs are KRIs, Then We&lsquo;re Measuring It All Wrong
-_Presenter_: Alex Hutton, ne'er-do-well
+### <a name="neer-do-well"></a>If KPIs are KRIs, Then We&lsquo;re Measuring It All Wrong
+_Presenter_: TBD
 
 _Abstract_: What are we measuring, what are we auditing?  If the performance of our security teams are of tantamount performance, then they become our KRIs.  This talk discusses how we can measure the human performance elements of risk reduction.
 
