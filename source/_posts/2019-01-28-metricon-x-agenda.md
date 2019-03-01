@@ -142,7 +142,7 @@ _Abstract_: What are we measuring, what are we auditing?  If the performance of 
 ### <a name="bcd"></a>Metrics for Organizational Cybersecurity Practices
 _Presenter_: Benjamin Charles Dean, Columbia University
 
-_Abstract_: To be supplied, based on OECD paper.
+_Abstract_: Over 2016&ndash;18 the OECD undertook a project to improve the measurement of the digital security risk management practices of businesses. This project has yielded a set of tools that represent major progress for policymakers, national statistical offices and insurers: a measurement framework, a set of core indicators and a pilot survey instrument. The measurement framework and indicators are based on the Principles contained in the 2015 Recommendation of the Council on Digital Security Risk Management for Economic and Social Prosperity. Throughout the two-year process input was sought from a joint working group comprising Delegates from the OECD Working Party on Security and Privacy in the Digital Economy (SPDE) and the OECD Working Party on Measurement and Analysis of the Digital Economy (MADE).
 
 ### <a name="abt"></a>Tactical Metrics Don&rsquo;t Lead to Strategic Investments
 _Presenters_: Brian Gay, Northramp LLC and Sean Owen, Abt Associates
