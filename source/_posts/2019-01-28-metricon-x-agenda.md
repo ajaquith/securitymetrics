@@ -35,7 +35,7 @@ Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Se
  14:15&ndash;15:00 | [Integrating Cyber Insurance Into Your Cyber Security Arsenal](#mokhov) <br> Serguei Mokhov, Concordia University
  15:00&ndash;15:15 | Break
  15:15&ndash;16:00 | [Metrics that Matter: Help Management Improve Decision-Making and Improve the Organization&rsquo;s Security Posture](#imf) <br> Sanaz Sadoughi, International Monetary Fund
- 16:00&ndash;16:45 | [Communicating Cyber Risk to the Board of Directors](#wade) <br> Wade Baker, Cyentia Institute
+ 16:00&ndash;16:45 | [Assigning Probability to Cybersecurity Risk](#jen) <br> Jennifer Bayuk, Decision Framework Systems
  16:45&ndash;17:30 | Break
  17:30&ndash; | Conviviality, conversation, chow and not a hint of _covfefe_
 
@@ -48,7 +48,7 @@ Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Se
 -------------------|-----------------------
   8:30&ndash;9:00  | Continental breakfast 
   9:00&ndash;9:45  | [Why Does Application Security Take So Long?](#eng) <br> Chris Eng, Veracode <br> Jay Jacobs, Cyentia Institute
-  9:45&ndash;10:30 | [Assigning Probability to Cybersecurity Risk](#jen) <br> Jennifer Bayuk, Decision Framework Systems
+  9:45&ndash;10:30 | [Communicating Cyber Risk to the Board of Directors](#wade) <br> Wade Baker, Cyentia Institute
  10:30&ndash;10:45 | Break
  10:45&ndash;11:30 | [Metrics and Standards: Can Data Science Help Understand Privileged Access?](#panaseer) <br> Mike MacIntire, Panaseer
  11:30&ndash;13:00 | [Lunch and Open Mic (Metrics Freestyle Rapping)](#mic)
