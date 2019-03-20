@@ -51,12 +51,11 @@ Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Se
   9:45&ndash;10:30 | [Communicating Cyber Risk to the Board of Directors](#wade) <br> Wade Baker, Cyentia Institute
  10:30&ndash;10:45 | Break
  10:45&ndash;11:30 | [Metrics and Standards: Can Data Science Help Understand Privileged Access?](#panaseer) <br> Mike MacIntire, Panaseer
- 11:30&ndash;13:00 | [Lunch and Open Mic (Metrics Freestyle Rapping)](#mic)
- 13:00&ndash;13:45 | [If KPIs are KRIs, Then We&lsquo;re Measuring It All Wrong](#neer-do-well) <br> TBD
+ 11:30&ndash;13:00 | [Lunch and Open Mic (Metrics Freestyle Rapping / Rump Session)](#mic)
+ 13:00&ndash;13:45 | [Metrics for Organizational Cybersecurity Practices](#bcd) <br> Benjamin Charles Dean, Columbia University
  13:45&ndash;14:00 | Break
- 14:00&ndash;14:45 | [Metrics for Organizational Cybersecurity Practices](#bcd) <br> Benjamin Charles Dean, Columbia University
- 14:45&ndash;15:30 | [Tactical Metrics Don&rsquo;t Lead to Strategic Investments](#abt) <br> Brian Gay, Northramp LLC <br> Sean Owen, Abt Associates
- 15:30&ndash;15:45 | Closing <br> Andrew Jaquith
+ 14:00&ndash;14:45 | [Tactical Metrics Don&rsquo;t Lead to Strategic Investments](#abt) <br> Brian Gay, Northramp LLC <br> Sean Owen, Abt Associates
+ 14:45&ndash;15:30 | Closing <br> Andrew Jaquith
 
 Breakfast and lunch will be provided.
 
@@ -131,11 +130,11 @@ _Presenter_: Mike MacIntire, Panaseer
 
 _Abstract_: Privileged access is increasingly understood as a challenging problem for organizations to solve. Even Board members understand what privileges "superusers" possess and the potential impact they can have on critical business systems — for good or ill. As one CISO put it, privileged access is “at the intersection of human behavior and technical controls, and often brings IT and security into conflict”. Tools for privileged access management (PAM) exist to manage privileged access, but installing a tool is just the beginning. Once you’ve identified how people should be accessing assets, how do you clean up the tangled web of permissions that exists in your organization, without hindering by business as usual? In this talk, we’ll reframe PAM as a data science problem and explore what insight you can glean from your data, about where the problem lies and how to fix it.
 
-### <a name="mic"></a>Lunch and Open Mic (Metrics Freestyle Rapping)
+### <a name="mic"></a>Lunch and Open Mic (Metrics Freestyle Rapping / Rump Session)
 _Abstract_: From 11:30 through lunch, we will be providing an open mic for on the spot or improv presentations, questions for the community, rants (within reason) and other discussion topics.
 
-### <a name="neer-do-well"></a>If KPIs are KRIs, Then We&lsquo;re Measuring It All Wrong
-_Presenter_: TBD
+### <a name="neer-do-well"></a>If KPIs are KRIs, Then We&rsquo;re Measuring It All Wrong
+_Presenter_: A certain ne&rsquo;er-do-well
 
 _Abstract_: What are we measuring, what are we auditing?  If the performance of our security teams are of tantamount performance, then they become our KRIs.  This talk discusses how we can measure the human performance elements of risk reduction.
 
