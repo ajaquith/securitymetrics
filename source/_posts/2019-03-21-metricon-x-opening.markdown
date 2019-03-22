@@ -4,10 +4,11 @@ author: Andrew Jaquith
 created_at: 2019-03-21 09:00:01 -0400
 layout: post
 categories: 
-- security
-- metrics
+- metricon
 comments: true
 ---
+
+_This is the nominal text of Andy Jaquith&rsquo;s opening remarks for [Metricon X](/blog/2019/01/28/metricon-x-agenda/), delivered on March 21, 2019. It has been lightly edited for clarity and a few identities have been slightly disguised._
 
 # Welcome
 
