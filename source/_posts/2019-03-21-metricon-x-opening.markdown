@@ -8,13 +8,15 @@ categories:
 comments: true
 ---
 
-_This is the nominal text of Andy Jaquith&rsquo;s opening remarks for [Metricon X](/blog/2019/01/28/metricon-x-agenda/), delivered on March 21, 2019. It has been lightly edited for clarity and a few identities have been slightly disguised._
+_This is the nominal text of Andy Jaquith&rsquo;s opening remarks for [Metricon X](/blog/2019/01/28/metricon-x-agenda/), delivered on March 21, 2019. It has been lightly edited for clarity and a few identities have been slightly disguised. The views expressed in this speech do not necessarily reflect those of my present or past employers._
 
 # Welcome
 
 I appreciate everybody coming today. It&rsquo;s a great turnout for a conference that we rather deliberately did not advertise. If you&rsquo;re here, it&rsquo;s because you wanted to be here. You&rsquo;ve self-selected.
 
 The theme of the conference is &ldquo;plus &ccedil;a change&hellip;,&rdquo; the second half of which is &ldquo;plus c&rsquo;est la m&ecirc;me chose.&rdquo; Colloquially: &ldquo;the more things change, the more they stay the same.&rdquo; So what we&rsquo;re really here to talk about are the constants and the change. But because I suspect that we will have ample time to reheat some of the old chestnuts (the constants), I&rsquo;d like to offer a few remarks on the _changes_ &mdash; that is, notable happenings in the world of security metrics over the last 12 years.
+
+<!-- more -->
 
 # Data-driven security took root
 
