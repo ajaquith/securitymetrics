@@ -2,7 +2,8 @@
 
 Securitymetrics.org is a community website for practitioners of security metrics.
 
-This website uses the Octopress software created by Brandon Mathis. See the License notices for this site and for Octopress below.
+This website uses the Octopress software, created by Brandon Mathis. See 
+the License notices for this site and for Octopress below.
 
 ## What is Octopress?
 
