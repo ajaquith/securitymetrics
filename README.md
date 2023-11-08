@@ -31,6 +31,6 @@ Deployment to GitHub Pages via GitHub Actions is as described in Hugo’s [guide
 
 Note: `hugo.workflow` contains the hard-coded Hugo version to use. The version number in `jobs/build/env` should not be prefixed with a `v.` In addition, the Hugo version GitHub downloads is hard-coded to use a particular version of Go. Use the same versions in the local dev environment.
 
-
+3. Add and verify the domain `securitymetrics.org`. Using the GitHub UI in the repo, configure Pages to use the custom domain `www.securitymetrics.org`. No CNAME text files appear to be needed.
 
 
