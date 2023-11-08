@@ -1,0 +1,26 @@
+---
+title: Security Modeling
+author: Dan Geer
+date: 2004-08-25 14:46:03 -0400
+categories:
+- modeling
+---
+This page includes links to research that attempts to model security phenonema mathematically.
+
+* [Cascade control in complex networks](http://arxiv.org/abs/cond-mat/0401074), Motter AE, Max Planck Institute, report #mpi-pks/0312006, 4pp, 10 July 2004, PDF.
+
+  Complex networks with a skewed distribution of loads may undergo a global cascade of overload failures when key elements of the network are attacked or removed.  Since a small shock has potential to trigger a global cascade, a fundamental question regards the possible mechanisms of defense.  Here we show that a selective further removal of network elements can be used to prevent the cascade from propagating through the entire network, substantially reducing the damage caused by the attack or failure.
+
+* [Technological Networks and the Spread of Computer Viruses](http://www.sciencemag.org/cgi/reprint/304/5670/527?maxtoshow=&HITS=10&hits=10&RESULTFORMAT=&fulltext=forrest&searchid=1082751103983_10300&stored_search=&FIRSTINDEX=), Balthrop J, Forrest S, Newman MEJ, & Williamson MM, Science, v304 p527-529, 23 April 2004, PDF.
+
+  Targeted vaccination strategies for the control of computer viruses are 
+unlikely to be generally effective because the networks over which 
+viruses spread are not sufficiently dominated by highly connected nodes,
+and because network topology can be influenced strongly by the way in   
+which a virus is written. Throttling provides a promising alternative   
+strategy that works with any network topology and can greatly reduce    
+viruses' impact by slowing their spread to the point where  
+they can be treated by conventional means.
+* [Epidemic Spreading in Scale-Free Networks](http://www.cs.princeton.edu/courses/archive/fall03/cs323/links/pastor-satorras.pdf), Pastor-Satorras R & Vespignani A, Physical Review Letters, v86 n14 p3200-3203, 2 April 2001, PDF.
+
+  The Internet has a very complex connectivity recently modeled by the class of scale-free networks. This feature, which appears to be very efficient for a communications network, favors at the same time the spreading of computer viruses. We analyze real data from computer virus infections and find the average lifetime and persistence of viral strains on the Internet. We define a dynamical model for the spreading of infections on scale-free networks, finding the absence of an epidemic threshold and its associated critical behavior. This new epidemiological framework rationalizes data of computer viruses and could help in the understanding of other spreading phenomena on communication and social networks.

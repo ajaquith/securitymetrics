@@ -1,0 +1,191 @@
+---
+title: Metricon 8 — Seven Metrics Challenges
+author: Pete Lindstrom, Jennifer Bayuk and Andrew Jaquith
+date: 2013-03-29 23:00:00 -0500
+categories:
+- metricon
+---
+Metricon 8 was a one-day event, Friday, March 1, 2013, co-located with the RSA Security Conference, in San Francisco, WA.
+This page contains a description of the event, official proceedings, presentations, and the original CFP. 
+
+<!-- more -->
+
+## Program
+
+* Coffee and introductions -- Pete Lindstrom
+* Plenary workgroup scenarios and instructions -- Pete Lindstrom
+* Breakout sessions
+    * Data Breach Costs -- Ben Shapiro, facilitator
+    * Malware Identification -- Patrick Florer, facilitator
+    * Vulnerability Management -- Andrew Jaquith, facilitator
+    * Systems Development Controls -- Evan Wheeler, facilitator
+    * Information Security Program -- Matthew Fleming, facilitator
+    * Cyber Security Risk -- Bob Rudis, facilitator
+    * Business Impact -- Myles Conley, facilitator
+* CISO panel
+    * Jennifer Bayuk, Jennifer L Bayuk, LLC
+    * Fred Doolittle, Chevron
+    * Steve Dotson, Travelport
+* Lightning talks, and lunch
+    * Sal Stolfo and Nathaniel Boggs, Columbia University -- [Measuring Defense in Depth](/attachments/Metricon-8-Boggs-Defense-In-Depth.pdf)
+    * Anton Chuvakin, Gartner -- [Can We Have Top 5 Security Metrics, Pleeeeeeeease?](/attachments/Metricon-8-Chuvakin-Top-5.pdf)
+    * Mahesh Saptarshi, Symantec -- [Continued funding of SDLC](/attachments/Metricon-8-Saptarshi-SDLC.pdf)
+    * _Plus a few other talks we do not have presentations for_
+* Data publishers panel
+    * Wade Baker, Verizon Business
+    * Andrew Jaquith, SilverSky
+    * Steve Christey, MITRE
+* Breakout sessions, Round Two
+* Beer
+
+__Venue__
+
+Metricon 8 was held at Moscone South in San Francisco on March 1, 2013.
+
+__Summary__
+
+The goal of Metricon 8 was to bring together practitioners, review both the state of the art, and leverage the collective wisdom of participants to take the first step towards a framework for metrics in areas of significant value to enterprise security programs.
+
+The day began with a discussion of goals and objectives led by the program chair, Pete Lindstrom. Facilitators led seven break-out sessions that produced an initial set of metrics. Each group:
+
+1. Created scenarios associated with the topic areas
+2. Defined a set of metrics to inform decisions regarding the scenarios
+3. Reviewed published data to see what could be "borrowed"
+4. Defined metrics, where each metric contained:
+    * _Name:_ descriptive label
+    * _Measure:_ unit of quantitative measurement(s)
+    * _Scenarios:_ where the metric would be useful
+    * _Frequency:_ how often to collect data used for measuring changes over time
+    * _Formula:_ the calculation that results in a numeric expression of a metric
+    * _Indicators:_ information about the meaning of the metric and its performance trend
+
+Each group presented its preliminary results to a simulated “enterprise” panel of CISO-equivalent practitioners, with discussion subsequently opened to all participants. Groups used the feedback to identify gaps and refine their metrics concepts.
+
+The enterprise panel was followed by short (5-10 min) “lightning talks” on emerging issues.
+
+Following the lightning talks, a panel of metrics data publishers (Wade, Andrew and Steve) discussed their data-gathering and analysis processes, and how they expect enterprise security practitioners to make use of the data in their reports to make decisions.
+
+In the last session of the day, each group completed its work and presented findings to everyone.
+
+[Metricon 8's formal Proceedings](/attachments/Metricon-8-Proceedings-DraftForReview.pdf), written by Jennifer Bayuk , describes the day's proceedings in detail. It also includes the set of metrics that each group produced.
+
+## Program Committee
+
+Chair: Pete Lindstrom
+
+Members:
+
+* Gunnar Peterson, Artec Group
+* Chris Porter, Verizon Business
+* Bob Rudis, Liberty Mutual
+* Walt Williams, 
+* Andrew Jaquith, SilverSky
+* Dan Geer, In-Q-Tel
+* Jennifer Bayuk, Jennifer L. Bayuk, LLC
+
+## Attendees
+
+* Jim Acquaviva, nCircle 
+* Phil Agacoli, Cox Communications
+* Anthony Arrott, Trend Micro
+* Wade Baker, Verizon
+* Jennifer L. Bayuk, Jennifer L. Bayuk, LLC
+* Chris Berry, Sensage Services
+* Nathaniel Boggs, Columbia University
+* Stephen Boyer, BitSight Technologies
+* Katherine Brocklehurst , nCircle
+* Krag Brotby, Brotby & Associates
+* David Charing, Canadian Imperial Bank of Commerce
+* Steve Christey, MITRE
+* Anton Chuvakin, Gartner
+* Myles Conley, Auspices LLC
+* Earl Crane, National Security Staff, The White House
+* Keesha M. Crosby, Tri-Guard Risk Solution, LTD
+* Fred Doolittle, Chevron Information Technology Company
+* Steve Dotson, Travelport
+* Thomas Elegante, Zions Bancorporation
+* Jussi Eronen, CERT-FI
+* Matthew H. Fleming, Homeland Security Studies and Analysis Institute
+* Patrick M. Florer, Risk Centric Security, Inc.
+* Doug Foster, USG
+* Summer C. Fowler, Carnegie Mellon University
+* Gary Golomb, Cylance, Inc.
+* Grant Hansen, Zions Bancorporation
+* Paula Hant, salesforce.com
+* Lance Hayden, Cisco
+* Josh Huston, Exultium
+* Jay Jacobs, Verizon
+* Andrew Jaquith, Silversky
+* Jack Jones, CXOWARE, Inc.
+* Ramon Krikken, Gartner
+* Jason Leuenberger, Starbucks
+* Pete Lindstrom, Spire Security, LLC
+* Ivan Macalintal, Trend Micro
+* Michael Makstman, Kaiser Permanente
+* Robert Markel, Virgin America
+* Raffael Marty, pixlcloud
+* Adam Montville, Tripwire, Inc.
+* Bill Telletier, LMIG
+* Alex Proskura, Auspicatus
+* Andy Rappaport, CORE Security
+* Michael Roytman, Risk I/O
+* Bob Rudis, Liberty Mutual
+* Ben Sapiro, The Dominion
+* Mahesh Saptarshi, Symantec
+* Aaron Schaub, State Auto Insurance
+* David F. Severski, Seattle Children's
+* Lindsey Smith, Tripwire, Inc.
+* Wyman Stocks, NetApp
+* Salvatore J. Stolfo, Columbia University
+* Morey Straus, VMware
+* Russell Thomas, George Mason University
+* Ryan Ward, Avatier Corporation
+* Evan Wheeler, Omgeo
+* Suzanne Widup, Verizon
+* Walt Williams, Lattice Engines
+* Mathew Woodyard, Zions Bancorporation
+* Kai Yu, Trend Micro
+
+## Sponsors
+
+{{< figure src="/images/metricon-8-sponsors.png" >}}
+
+* [Trend Micro](http://www.trendmicro.com)
+* [nCircle](http://www.ncircle.com)
+* [Jennifer Bayuk](http://www.bayuk.com)
+* [RSA, The Security Division of EMC](http://www.rsa.com)
+* [SilverSky](http://www.silversky.com)
+* [Symantec](http://www.symantec.com)
+
+## Original Call for Participation
+
+In our continuing efforts to infuse the infosec field with useful metrics, we are excited to announce Metricon 8 - an all-day metrics workshop on Friday, March 1, 2013! 
+
+Metricon 8 has a workshop-like format - complete with objectives - that will ultimately lead to a lasting contribution to our field. We sincerely believe that leveraging the collective wisdom of participants will lead us to a taxonomy or framework for metrics in areas that are important to enterprise security programs. Even more specifically, our approach will incorporate an evaluation of existing industry data sources (e.g. published reports) with an eye toward identifying alignments, gaps, and overlaps as these reports relate to the needs of the enterprise security professional.
+
+The format for the workshop will include breakouts and full-group sessions as we move towards our objectives. We will ultimately cover 3-6 of the following subject areas, keeping in mind our enterprise interests as they dovetail with published reports:
+  
+* Incident-oriented Metrics (sources, e.g. DBIR, Trustwave, Mandiant)
+* Malware-oriented Metrics (sources, e.g. most/all anti-malware companies)
+* AppSec-oriented Metrics (sources, e.g. Veracode, Whitehat, OWASP)
+* Vulnerability and System Config Metrics (sources e.g. MSFT, IBM)
+* Risk and/or Compliance Metrics (sources e.g. Vz PCI Report, Index of Cybersecurity)
+* Process / Management / Resource Metrics (sources e.g. NIST/GAO, various)
+* Other enterprise-oriented Metrics (help us out!)
+ 
+Note: We will be leaning heavily towards recurring data reports rather than ad hoc empirical studies.
+
+All prospective participants with an interest in security metrics are welcome. However, given the maturity level of most of our members and our intended objectives, the content will be oriented towards "seasoned" professionals.  
+
+It is crucial that we get a good sense up-front about participants, given our move to Friday of RSA, and the change in conference format. Get your name on the list now! There is no cost to participate.
+
+We invite you to submit your request to participate via email to [Metricon 8 @ securitymetrics.org](mailto:metricon8@securitymetrics.org?subject=Request%20to%20participate&body=I'd%20like%20to%20attend%20Metricon%208). Please include the following:
+ 
+1. Your name and affiliation  
+2. Three topic areas that are of interest in prioritized order (from list above or add your own)
+3. Anticipated level of participation (heavy, moderate, light, observer)
+4. A brief statement about your interest in security metrics
+
+We are also very interested in regrets or disinterest along with the reason why.
+
+We hope you are as excited as we are in contributing to the growing body of practical knowledge in our field.

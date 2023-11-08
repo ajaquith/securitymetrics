@@ -1,0 +1,16 @@
+# baseURL: 'https://www.securitymetrics.org/'
+languageCode: 'en-us'
+title: 'Securitymetrics.org'
+params:
+  BookSection: 'posts'
+  BookRepo: https://github.com/ajaquith/securitymetrics
+module:
+  imports:
+    - path: 'github.com/alex-shpak/hugo-book'
+permalinks:
+  page:
+    posts: /blog/:year/:month/:day/:filename/
+  section:
+    posts: /blog/
+taxonomies:
+  category: "categories"
