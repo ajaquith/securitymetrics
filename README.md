@@ -22,7 +22,8 @@
 
         hugo server
 
-# Deploying to GitHub Pages via GitHub Actions
+# Deploying
 
-As described in Hugo’s [guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/):
+Deployment to GitHub Pages via GitHub Actions is as described in Hugo’s [guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/):
+
 
