@@ -26,4 +26,11 @@
 
 Deployment to GitHub Pages via GitHub Actions is as described in Hugo’s [guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/):
 
+1. Create a custom GitHub workflow `.github/workflows/hugo.workflow` in the local Git repo.
+2. Set up a GitHub Action which will automatically regenerate the website on when the repo update is pushed.
+
+Note: `hugo.workflow` contains the hard-coded Hugo version to use. The version number in `jobs/build/env` should not be prefixed with a `v.` In addition, the Hugo version GitHub downloads is hard-coded to use a particular version of Go. Use the same versions in the local dev environment.
+
+
+
 
