@@ -1,5 +1,7 @@
 # What is securitymetrics.org?
 
+Securitymetrics.org is a community website dedicated to the study of data, measurements, and metrics associated with cybersecurity. The website is statically generated using Hugo and deployed to GitHub pages as a serverless site.
+
 # Installing
 
 1. Install Hugo as described in the [Quickstart guide](https://gohugo.io/getting-started/quick-start/)
@@ -27,10 +29,11 @@
 Deployment to GitHub Pages via GitHub Actions is as described in Hugo’s [guide](https://gohugo.io/hosting-and-deployment/hosting-on-github/):
 
 1. Create a custom GitHub workflow `.github/workflows/hugo.workflow` in the local Git repo.
+
 2. Set up a GitHub Action which will automatically regenerate the website on when the repo update is pushed.
 
-Note: `hugo.workflow` contains the hard-coded Hugo version to use. The version number in `jobs/build/env` should not be prefixed with a `v.` In addition, the Hugo version GitHub downloads is hard-coded to use a particular version of Go. Use the same versions in the local dev environment.
+3. Add and verify the domain `securitymetrics.org`. Using the GitHub UI in the repo, configure Pages to use the custom domain `www.securitymetrics.org`. Unlike earlier versions of GitHub Pages, no CNAME text files appear to be needed.
 
-3. Add and verify the domain `securitymetrics.org`. Using the GitHub UI in the repo, configure Pages to use the custom domain `www.securitymetrics.org`. No CNAME text files appear to be needed.
+4. After the workflow has been verified as working, change the branch that will autodeploy (in `on:/push:/branches:`) from `main` to `master`.
 
-
+Note: the section `jobs:/build:/env:` in `hugo.workflow` contains the hard-coded version of Hugo to use for building the site. The version number should _not_ be prefixed with a `v.` In addition, the Hugo version that GitHub downloads is hard-coded to use a particular version of Go. When testing local working copies, make sure to use the same version of Go.
