@@ -1,8 +1,9 @@
-# Securitymetrics.org Changelog
+# Changelog
 
-## 0.2
+## 0.2 — November 8, 2023
 
-- Re-platform to Hugo, GitHub Pages, and GitHub Actions.
+- Re-platformed to Hugo, GitHub Pages, and GitHub Actions.
+- Removed legacy redirects
 
 ## 0.1
 

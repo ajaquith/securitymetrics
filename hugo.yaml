@@ -1,6 +1,8 @@
 baseURL: 'https://www.securitymetrics.org/'
 languageCode: 'en-us'
 title: 'Securitymetrics.org'
+disqusShortname: 'securitymetrics'
+googleAnalytics: 'G-5CCWHLN6RW'
 params:
   BookSection: 'posts'
   BookRepo: https://github.com/ajaquith/securitymetrics
