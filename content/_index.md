@@ -2,6 +2,7 @@
 title: Welcome to Securitymetrics.org
 author: Andrew Jaquith
 date: 2023-11-08 10:05:16 -0500
+BookComments: false
 ---
 Welcome to the Securitymetrics.org website.
 
